@@ -81,7 +81,7 @@ This project underscores the power of tree-based ensembles for intrusion detecti
 
 ## 📁 Repository Contents
 
--   `hope.ipynb`: The main Jupyter Notebook containing the complete, optimized Python code for the entire data pipeline.
+-   `nids_analysis.ipynb`: The main Jupyter Notebook containing the complete, optimized Python code for the entire data pipeline.
 -   `Bhushan_NIDS_ONGC_SDC_organized.pdf`: The detailed project report submitted for the internship.
 -   `Certificate of Participation.pdf`: The official certificate of participation for the summer internship at ONGC.
 

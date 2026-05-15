@@ -129,7 +129,7 @@ This project underscores the power of tree-based ensembles for intrusion detecti
     jupyter lab
     ```
 
-5.  Open `hope.ipynb` and run the cells sequentially from top to bottom.
+5.  Open `nids_analysis.ipynb` and run the cells sequentially from top to bottom.
 
 ---
 
